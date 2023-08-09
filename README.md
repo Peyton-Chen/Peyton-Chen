@@ -10,3 +10,10 @@ Now, I am a first-year Ph.D. student at [Fudan University](https://www.fudan.edu
 
 [![PeytonChen's github stars](https://github-readme-stats.vercel.app/api?username=Peyton-Chen&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Peyton-Chen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peyton-Chen&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/Peyton-Chen)
+
+<a href="https://github.com/Peyton-Chen/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peyton-Chen&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Peyton-Chen/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Peyton-Chen&repo=convoychat" />
+</a>
