@@ -1,17 +1,15 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peyton-Chen)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peyton-Chen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Peyton-Chen/Peyton-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <!-- **If you need to deploy our research work or seek interns, please reach out to me via thu DOT lhchen AT gmail DOT com.**-->
 
-Here are some ideas to get you started:
+**Hi here, I'm Peng-Tao CHEN (陈鹏涛 in Chinese)!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now, I am a first-year Ph.D. student at [Fudan University](https://www.fudan.edu.cn/). My research interest includes **Model Compression** and **Model Design**.
+
+
+**E-mail**: Pengt DOT Chen AT gmail DOT com
+
+[![example](https://img.shields.io/badge/ZhiHu-EvanCHEN-blue.svg)](https://www.zhihu.com/people/hao-55-16)  &ensp; ![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)  &ensp; [![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)  &ensp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
+
+
+[![PeytonChen's github stars](https://github-readme-stats.vercel.app/api?username=Peyton-Chen&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Peyton-Chen)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peyton-Chen&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/Peyton-Chen)
