@@ -17,6 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peyton-Chen&theme=material-palenight&count_private=true&hide=contribs" />
 </a>
 
-<a href="https://github.com/Peyton-Chen">
+<!--<a href="https://github.com/Peyton-Chen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peyton-Chen&theme=material-palenight&hide=Jupyter&layout=compact" />
-</a>
+</a> -->
