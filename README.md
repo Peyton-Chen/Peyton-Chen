@@ -4,11 +4,9 @@
 
 Now, I am a first-year Ph.D. student at [Fudan University](https://www.fudan.edu.cn/). My research interest includes **Model Compression** and **Model Design**.
 
-
 **E-mail**: Pengt DOT Chen AT gmail DOT com
 
- [![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://peyton-chen.github.io/homepage/)  &ensp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Peyton-Chen.Peyton-Chen) 
-
+ [![example](https://img.shields.io/badge/HomePage-ptchen-blue.svg)](https://peyton-chen.github.io/homepage/)  &ensp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Peyton-Chen.Peyton-Chen) 
 
 [![PeytonChen's github stars](https://github-readme-stats.vercel.app/api?username=Peyton-Chen&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Peyton-Chen)
 
