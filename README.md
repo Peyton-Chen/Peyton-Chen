@@ -4,7 +4,7 @@
 
 :postbox:**E-mail**: Pengt DOT Chen AT gmail DOT com
 
- [![example](https://img.shields.io/badge/HomePage-PtChen-green.svg)](https://peyton-chen.github.io/homepage/)  &ensp; ![Visitors](https://Visitor-badge.laobi.icu/badge?page_id=Peyton-Chen.Peyton-Chen) 
+ [![example](https://img.shields.io/badge/HomePage-PtChen-green.svg)](https://peyton-chen.github.io/homepage/)  &ensp; ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Peyton-Chen.Peyton-Chen&left_text=Visitors)
 
 [![PeytonChen's github stars](https://github-readme-stats.vercel.app/api?username=Peyton-Chen&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Peyton-Chen)
 
