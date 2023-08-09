@@ -7,7 +7,7 @@ Now, I am a first-year Ph.D. student at [Fudan University](https://www.fudan.edu
 
 **E-mail**: Pengt DOT Chen AT gmail DOT com
 
-[![example](https://img.shields.io/badge/ZhiHu-EvanCHEN-blue.svg)](https://www.zhihu.com/people/hao-55-16)  &ensp; ![example](https://img.shields.io/badge/Wechat-ZEROHAO-green.svg)  &ensp; [![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)  &ensp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=linghaochan.linghaochan)
+ [![example](https://img.shields.io/badge/HomePage-lhchen-red.svg)](https://lhchen.top)  &ensp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Peyton-Chen.Peyton-Chen)
 
 
 [![PeytonChen's github stars](https://github-readme-stats.vercel.app/api?username=Peyton-Chen&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/Peyton-Chen)
