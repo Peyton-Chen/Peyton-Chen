@@ -1,6 +1,6 @@
 :wave: **Hi here, I'm Peng-Tao CHEN (陈鹏涛 in Chinese)!**
 
-:school: Now, I am a first-year Ph.D. student at [Fudan University](https://www.fudan.edu.cn/). 
+:school: Now, I am a fourth-year Ph.D. student at [Fudan University](https://www.fudan.edu.cn/). 
 
 :shushing_face: My research interest includes **Model Compression** and **Model Design**.
 
